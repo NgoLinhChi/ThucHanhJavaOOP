@@ -22,7 +22,5 @@ public class App40 {
             default: System.out.println("số ngày nhập sai");
 
         }
-
-
     }
 }

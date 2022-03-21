@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class App1 {
     public static void main(String[] args) throws Exception {
         public class App1 {
