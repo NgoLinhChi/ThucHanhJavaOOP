@@ -2,6 +2,7 @@ package main;
 import shapes.HinhTron;
 import shapes.Hinhchunhat;
 import shapes.HinhTru;
+import shapes.Hinhvuong;
 
 public class mainclass {
     public static void main(String[] args) throws Exception {
